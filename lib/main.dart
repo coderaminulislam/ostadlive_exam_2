@@ -52,6 +52,7 @@ class ProfileActivity extends StatelessWidget {
                     const Text(
                       'Md Aminul Islam',
                       style: TextStyle(
+                        fontFamily: 'Poppins',
                         fontWeight: FontWeight.w600,
                         color: Colors.black,
                         fontSize: 22,
@@ -60,6 +61,7 @@ class ProfileActivity extends StatelessWidget {
                     Text(
                       'mdaminulifno@gmail.com',
                       style: TextStyle(
+                        fontFamily: 'Poppins',
                         fontSize: 16,
                         color: Colors.black.withOpacity(.6),
                       ),
@@ -73,6 +75,7 @@ class ProfileActivity extends StatelessWidget {
                         textAlign: TextAlign.center,
                         "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
                         style: TextStyle(
+                            fontFamily: 'Poppins',
                             color: Colors.black,
                             fontSize: 16,
                             fontWeight: FontWeight.w400
@@ -108,6 +111,7 @@ class ProfileActivity extends StatelessWidget {
                     const Text(
                       'Md Aminul Islam',
                       style: TextStyle(
+                        fontFamily: 'Poppins',
                         fontWeight: FontWeight.w600,
                         color: Colors.black,
                         fontSize: 22,
@@ -116,6 +120,7 @@ class ProfileActivity extends StatelessWidget {
                     Text(
                       'mdaminulifno@gmail.com',
                       style: TextStyle(
+                        fontFamily: 'Poppins',
                         fontSize: 16,
                         color: Colors.black.withOpacity(.6),
                       ),
@@ -129,6 +134,7 @@ class ProfileActivity extends StatelessWidget {
                         textAlign: TextAlign.center,
                         "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
                         style: TextStyle(
+                            fontFamily: 'Poppins',
                             color: Colors.black,
                             fontSize: 16,
                             fontWeight: FontWeight.w400
